@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IHM_Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IHM_Project_jar</output-path>
+    <root id="archive" name="IHM_Project.jar">
+      <element id="module-output" name="IHM_Project" />
+    </root>
+  </artifact>
+</component>
