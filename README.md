@@ -41,6 +41,6 @@ Using IntelliJ IDEA
 
 6 - if there is still error change in project structure to this:
 
-![how to.jpg](https://drive.google.com/file/d/1zJwdITkK7pVseZFQdcFDKkDr8hf6FJLL/view?usp=drive_link)
+![image.jpg](image.jpg.png)
 
 - i'll update the app time to time ... i appreciate your contribution 
