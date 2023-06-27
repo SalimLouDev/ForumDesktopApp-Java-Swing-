@@ -25,4 +25,22 @@
   - uploading is working just needs to add it to the the desired container to show it up in the list view  
 ![Forum Upload](Upload.PNG)
 
+### How to run this project:
+
+Using IntelliJ IDEA
+
+1 - Download it from: [jetbrains Website](https://www.jetbrains.com/idea/promo/?source=google&medium=cpc&campaign=9730674410&term=intellij%20idea&content=428229831817&gad=1&gclid=CjwKCAjwkeqkBhAnEiwA5U-uM3EUekmGY0LxWyR73qKH_Nzp_bnVuNf65ZXbqftwbN0BFEAbNNeATRoCiKsQAvD_BwE)
+
+2 - Install it
+
+3 - Open it, than press open file or project, search for the java-swing project
+
+4 - Add JDK if you don't have one
+
+5 - Open the login class, and run it, if you face any issue, rebuild the project and re-compile login.java and run it again
+
+6 - if there is still error change in project structure to this:
+
+![how to.jpg](https://drive.google.com/file/d/1zJwdITkK7pVseZFQdcFDKkDr8hf6FJLL/view?usp=drive_link)
+
 - i'll update the app time to time ... i appreciate your contribution 
