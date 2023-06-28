@@ -43,4 +43,14 @@ Using IntelliJ IDEA
 
 ![image.jpg](image.jpg.png)
 
+Using Eclipes
+
+1 - Download it from: [Eclips Website](https://www.eclipse.org/downloads/)
+
+2 - Install it
+
+3 - Open it, than press open file or project, search for the java-swing project
+
+4 . There is no extra step, if you encountred any issue or error, please consider making an issue.
+
 - i'll update the app time to time ... i appreciate your contribution 
